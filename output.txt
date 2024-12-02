@@ -1,0 +1,14 @@
+Source/DBServer3G/Configuration.cs @OleksandrKrotnyiAtNice
+Source/DBServer3G/ConnectionMngr.cs @OleksandrKrotnyiAtNice
+Source/DBServer3G/DBSrvrClient.cs @OleksandrKrotnyiAtNice
+Source/DBServer3G/ExecuteStatus.cs @OleksandrKrotnyiAtNice
+Source/DBServer3G/IDChanging.cs @OleksandrKrotnyiAtNice
+Source/DBServer3G/Log.cs @OleksandrKrotnyiAtNice
+Source/DBServer3G/Management.cs @OleksandrKrotnyiAtNice
+Source/DBServer3G/MappingHandler.cs @OleksandrKrotnyiAtNice
+Source/DBServer3G/SQLSatementsCreator.cs @OleksandrKrotnyiAtNice
+Source/DBServer3G/RequestManagers/ @OleksandrKrotnyiAtNice
+Source/DBServer3G/Service/ProjectInstaller.cs @OleksandrKrotnyiAtNice
+Source/DBServer3G/Service/Service.cs @OleksandrKrotnyiAtNice
+Source/DBServer3G/SQLExecuters/ @OleksandrKrotnyiAtNice
+Source/DBServer3G/Tables/ @OleksandrKrotnyiAtNice
